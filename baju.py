@@ -1,1 +1,0 @@
-print("baju ini bersih")
