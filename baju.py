@@ -1,0 +1,1 @@
+print("baju ini bersih")
